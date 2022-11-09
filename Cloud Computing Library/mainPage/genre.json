@@ -1,0 +1,101 @@
+{
+    "title":"genre",
+    "list":[
+        {
+            "topic":"Arts",
+            "number":0,
+            "list":[
+                {
+                    "topic":"Flim",
+                    "number":0,
+                    "list":[
+                        
+                    ]
+                },
+                {
+                    "topic":"Dance",
+                    "number":0,
+                    "list":[
+                        
+                    ]
+                },
+                {
+                    "topic":"Painting",
+                    "number":0,
+                    "list":[
+                        
+                    ]
+                }
+            ]
+        },
+        {
+            "topic":"Fiction",
+            "number":0,
+            "list":[
+                
+            ]
+        },
+        {
+            "topic":"Science",
+            "number":0,
+            "list":[
+                {
+                    "topic":"Biology",
+                    "number":0,
+                    "list":[
+                        
+                    ]
+                },
+                {
+                    "topic":"Chemistry",
+                    "number":0,
+                    "list":[
+                        
+                    ]
+                },
+                {
+                    "topic":"Physics",
+                    "number":0,
+                    "list":[
+                        
+                    ]
+                }
+            ]
+        },
+        {
+            "topic":"Mathematics",
+            "number":0,
+            "list":[
+                
+            ]
+        },
+        {
+            "topic":"Business & Finance",
+            "number":0,
+            "list":[
+                
+            ]
+        },
+        {
+            "topic":"History",
+            "number":0,
+            "list":[
+                
+            ]
+        },
+        {
+            "topic":"Biograpy",
+            "number":0,
+            "list":[
+                
+            ]
+        },
+        {
+            "topic":"Social Science",
+            "number":0,
+            "list":[
+                
+            ]
+        }
+    ]
+}
